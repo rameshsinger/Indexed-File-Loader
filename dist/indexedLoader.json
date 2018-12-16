@@ -1,0 +1,16 @@
+{
+    "fileConfig": {
+        "scripts":[
+            {
+                "dependent":[],
+                "filePath":""
+            }
+        ],
+        "styles":[
+            {
+                "dependentChilds":[],
+                "filePath":""
+            }
+        ]
+    }
+}
