@@ -70,7 +70,7 @@ Note:
 
 ## Authors
 
-* **Ramesh Singer** - *Initial work* - [PurpleBooth](https://github.com/rameshsinger)
+* **Ramesh Singer** - *Initial work* - [rameshsinger](https://github.com/rameshsinger)
 
 See also the list of [contributors](https://github.com/rameshsinger/IndexedFileLoader/contributors) who participated in this project.
 
