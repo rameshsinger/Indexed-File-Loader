@@ -11,14 +11,10 @@ Just Copy IndexedScript.js from dist folder And Add It In Your Project
 It's Just A Plain Vanila JS Library
 It Will Works In Indexed DB Supported Browsers Only
 
-```
-Give examples
-```
-
 ### Installing
 
 
-1.Just Copy IndexedScript.js from dist folder And Add It In Your Project
+1.Just Copy IndexedScript.js from dist folder And Add It In Your Project<br>
 2.Include This File In HTML Head
 3.Create An JSON File Like below
 ```
