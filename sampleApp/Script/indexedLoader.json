@@ -1,0 +1,29 @@
+{
+    "fileConfig": {
+        "scripts": [
+            {
+                "key": "jquery-ui",
+                "dependent": [
+                    "jquery"
+                ],
+                "filePath": "jquery-ui.min.js",
+                "version": 1
+            },
+            {
+                "key": "jquery",
+                "dependent": [],
+                "filePath": "jquery-3.3.1.js",
+                "version": 1
+            }
+            
+        ],
+        "styles": [
+            {
+                "key": "bootstrap",
+                "dependent": [],
+                "filePath": "bootstrap.css",
+                "version": 1
+            }
+        ]
+    }
+}
