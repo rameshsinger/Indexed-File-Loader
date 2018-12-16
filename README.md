@@ -15,8 +15,8 @@ It Will Works In Indexed DB Supported Browsers Only
 
 
 1.Just Copy IndexedScript.js from dist folder And Add It In Your Project<br>
-2.Include This File In HTML Head
-3.Create An JSON File Like below
+2.Include This File In HTML Head<br>
+3.Create An JSON File Like below<br>
 ```
 {
     "fileConfig": {
@@ -53,9 +53,9 @@ It Will Works In Indexed DB Supported Browsers Only
 var IndexedFileLoader = (function () {
     var fileConfigPath = 'indexedLoader.json';
 ```
-5.Now You Can Load Scripts And Styles
-Note:
-  1.In JSON File Key Should Be Unique
+5.Now You Can Load Scripts And Styles<br>
+Note <br>
+  1.In JSON File Key Should Be Unique<br>
   2.You Can Enter Dependent By This Key
 
 ## Built With
