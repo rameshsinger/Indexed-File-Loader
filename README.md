@@ -77,5 +77,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * https://www.tutorialspoint.com Indexed DB Tutorial
-* Inspiration From My Friend Mr.Vivek M
+* Inspiration From My Friend [Mr.Vivek M](https://github.com/vivekcodejockey)
 
