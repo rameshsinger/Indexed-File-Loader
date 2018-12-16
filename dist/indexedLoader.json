@@ -1,15 +1,28 @@
 {
     "fileConfig": {
-        "scripts":[
+        "scripts": [
             {
-                "dependent":[],
-                "filePath":""
+                "key": "jquery-ui",
+                "dependent": [
+                    "jquery"
+                ],
+                "filePath": "jquery-ui.min.js",
+                "version": 1
+            },
+            {
+                "key": "jquery",
+                "dependent": [],
+                "filePath": "jquery-3.3.1.js",
+                "version": 1
             }
+            
         ],
-        "styles":[
+        "styles": [
             {
-                "dependentChilds":[],
-                "filePath":""
+                "key": "bootstrap",
+                "dependent": [],
+                "filePath": "bootstrap.css",
+                "version": 1
             }
         ]
     }
